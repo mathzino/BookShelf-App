@@ -1,2 +1,2 @@
 # Dicoding-FrontEnd
-https://mathzino.github.io/Dicoding-FrontEnd/
+https://mathzino.github.io/BookShelf-App/
